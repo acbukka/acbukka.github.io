@@ -1,0 +1,20 @@
+{
+    "10001" : {
+        "name" : "Роза",
+        "cost" : 150,
+        "description" : "Роза красная",
+        "image" : "images/products/rosa.png"
+    },
+    "10002" : {
+        "name" : "Хризантема",
+        "cost" : 120,
+        "description" : "Хризантема пушистая",
+        "image" : "images/products/rosa.png"
+    },
+    "10003" : {
+        "name" : "Пион",
+        "cost" : 190,
+        "description" : "Пион фиолетовый",
+        "image" : "images/products/rosa.png"
+    }
+}
